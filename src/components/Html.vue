@@ -6,7 +6,7 @@
                 <h1 class="font-bold uppercase p-4 border-b border-gray-600">
 
                     <a href="/" class="text-green-500 sm:text-red-500 text-sm
-                     md:text-xl hover:text-gray-700">Food Ninjas</a>
+                     md:text-xl hover:text-gray-700">Food Ethiopians</a>
                 </h1>
                 <div class="px-4 cursor-pointer md:hidden" @click="show = !show">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
@@ -61,7 +61,7 @@
         </div>
         <header>
             <h2 class="text-gray-700 text-5xl fint-semibold">Recipes</h2>
-            <h2 class="text-2xl font-semibold">For Ninjas</h2>
+            <h2 class="text-2xl font-semibold">For Ethiopians</h2>
         </header>
         <div>
             <h4 class="font-bold mt-12 pb-2 border-b border-gray-200">Latest Reciept</h4>
